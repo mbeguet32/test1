@@ -3,3 +3,4 @@ Premiers essais sur GitHub
 Premières modif
 et en voicid'autres...*
 interessant non.
+des ajoutsavec vim ok
